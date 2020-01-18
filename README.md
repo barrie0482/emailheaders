@@ -41,7 +41,7 @@ This User Defined Language (UDL) **EmailHeader.xml** file will parse
 .eml files or a file containing email headers for email message headers,
 including x-headers.
 
-![](emailheader.png)
+![](screenshots/emailheader.png)
 
 ## Highlight IP Addresses in email headers
 
@@ -56,7 +56,8 @@ using Notepad++ Find and Mark capability.
     what:** text box
 5.  Click **Mark All**
 
-![Mark tab in the Find dialog in Notepad++ v7.7.2.](regexsearch.png)
+![Mark tab in the Find dialog in Notepad++
+v7.7.2.](screenshots/regexsearch.png)
 
 #### IPv4 IP address regex
 
@@ -71,9 +72,9 @@ using Notepad++ Find and Mark capability.
 1.  Download the **emailheader.xml** form the github repository
 2.  Open Notepad++
 3.  Select **Language -\> User Defined Language -\> Define your
-    Language…** ![](install1.png)
+    Language…** ![](screenshots/install1.png)
 4.  Select **Import** and load the file **EmailHeader.xml** and click
-    **Open** ![](install2.png)
+    **Open** ![](screenshots/install2.png)
 5.  Close the **Define your Language…** dialog and close Notepad++.
 6.  Start Notepad++ load your .eml file and the email headers should
     have highlighting
