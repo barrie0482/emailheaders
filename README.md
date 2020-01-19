@@ -52,7 +52,7 @@ using Notepad++ Find and Mark capability.
     **Search** dialog.
 2.  Click on the **Mark** tab
 3.  Select the **Regular Expression** search mode
-4.  Add either the IPv4 or the IPv6 regular expresion in the **Find
+4.  Add either the IPv4 or the IPv6 regular expression in the **Find
     what:** text box
 5.  Click **Mark All**
 
@@ -81,5 +81,7 @@ v7.7.2.](screenshots/regexsearch.png)
 7.  Email Header highlighting for a text file containing email headers
     can be enabled by selecting **Language**, go to the bottom of the
     dropdown and select **Email Headers**
+
+[EmailHeader.xml](EmailHeader.xml)
 
 **This file has been tested on Notepad++ 64bit v7.7.2.**
