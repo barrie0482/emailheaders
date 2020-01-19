@@ -43,7 +43,7 @@ including x-headers.
 
 ![](screenshots/emailheader.png)
 
-## Highlight IP Addresses in email headers
+## Highlighting IP Addresses in email headers
 
 IPv4 and IPv6 addresses can be highlighted for ease of readability by
 using Notepad++ Find and Mark capability.
