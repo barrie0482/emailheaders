@@ -5,12 +5,12 @@ Notepad++ Email Header User Defined Language
 
   - 13Cubed Youtube Video [Email Header Analysis and Forensic
     Investigation](https://www.youtube.com/watch?v=nK5QpGSBR8c)
-  - [13Cubed EmailHeader plugin forSublime
+  - [13Cubed EmailHeader plugin for Sublime
     Test](https://github.com/13Cubed/EmailHeader)
   - [User Defined Language for
     Notepad++](https://ivan-radic.github.io/udl-documentation/)
 
-**Note: This file has been tested on Notepad++ 64bit v7.7.2.**
+**Note: EmailHeader.xml been tested on Notepad++ 64bit v7.7.2.**
 
 ## Description
 
@@ -82,6 +82,4 @@ v7.7.2.](screenshots/regexsearch.png)
     can be enabled by selecting **Language**, go to the bottom of the
     dropdown and select **Email Headers**
 
-[EmailHeader.xml](EmailHeader.xml)
-
-**This file has been tested on Notepad++ 64bit v7.7.2.**
+**EmailHeader.xml has been tested on Notepad++ 64bit v7.7.2.**
